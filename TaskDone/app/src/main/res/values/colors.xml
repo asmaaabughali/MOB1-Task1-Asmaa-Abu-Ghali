@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="task_background">#F0FFF4</color>
+    <color name="task_title">#218838</color>
+    <color name="task_text">#444444</color>
+</resources>
