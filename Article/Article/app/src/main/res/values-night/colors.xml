@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="article_background">#20242C</color>
+    <color name="article_title">#8DB9E8</color>
+    <color name="article_text">#F1F1F1</color>
+
+</resources>

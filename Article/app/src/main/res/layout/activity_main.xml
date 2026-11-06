@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/article_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The Beauty of Nature"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="@color/article_title"
+            android:gravity="center"
+            android:padding="20dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Introduction"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@color/article_title"
+            android:paddingTop="15dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nature is one of the most beautiful things in our world. It gives us fresh air, beautiful landscapes, and a peaceful environment."
+            android:textSize="17sp"
+            android:textColor="@color/article_text"
+            android:paddingTop="10dp"
+            android:lineSpacingExtra="6dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Why Nature Is Important"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@color/article_title"
+            android:paddingTop="25dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Trees, plants, rivers, and mountains are essential for life. They help maintain the balance of our environment and provide a home for many living creatures."
+            android:textSize="17sp"
+            android:textColor="@color/article_text"
+            android:paddingTop="10dp"
+            android:lineSpacingExtra="6dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Protecting Our Environment"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@color/article_title"
+            android:paddingTop="25dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="We should protect nature by planting trees, reducing pollution, and keeping our surroundings clean. Small actions can make a big difference."
+            android:textSize="17sp"
+            android:textColor="@color/article_text"
+            android:paddingTop="10dp"
+            android:lineSpacingExtra="6dp" />
+
+    </LinearLayout>
+
+</ScrollView>
