@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/quadrant_one"
+            android:padding="16dp"
+            android:text="Java\n\nLearn programming and develop your coding skills."
+            android:textColor="@color/quadrant_text"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/quadrant_two"
+            android:padding="16dp"
+            android:text="Android\n\nCreate useful and interactive mobile applications."
+            android:textColor="@color/quadrant_text"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:gravity="center" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/quadrant_three"
+            android:padding="16dp"
+            android:text="XML\n\nDesign beautiful layouts and organize screen elements."
+            android:textColor="@color/quadrant_text"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/quadrant_four"
+            android:padding="16dp"
+            android:text="Creativity\n\nTurn your ideas into amazing application designs."
+            android:textColor="@color/quadrant_text"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:gravity="center" />
+
+    </LinearLayout>
+
+</LinearLayout>
