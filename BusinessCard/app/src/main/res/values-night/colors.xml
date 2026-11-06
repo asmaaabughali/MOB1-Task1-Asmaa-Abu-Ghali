@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="business_background">#1D252D</color>
+    <color name="business_title">#FFFFFF</color>
+    <color name="business_accent">#65D6C4</color>
+    <color name="business_text">#E5E5E5</color>
+
+</resources>
